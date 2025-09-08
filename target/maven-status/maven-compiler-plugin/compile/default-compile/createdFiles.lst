@@ -1,0 +1,7 @@
+pages\AuthModals.class
+utils\AmountParser.class
+base\DriverFactory.class
+pages\ProductPage.class
+pages\CartPage.class
+pages\HomePage.class
+pages\OrderModal.class

@@ -1,0 +1,5 @@
+tests\AuthTests.class
+base\TestBase.class
+tests\CartTests.class
+tests\OrderTests.class
+tests\BrowseTests.class
